@@ -9,6 +9,13 @@ A full-stack application that collects pantry items and wellness goals, preproce
 - React front end mirrors the look-and-feel of the dashboard, provides an interactive form, and shows saved plans.
 - SQLite storage keeps both the current dashboard view and a history of generated plans.
 
+##Images 
+<img width="877" height="769" alt="Screenshot from 2025-11-08 11-13-45" src="https://github.com/user-attachments/assets/dfae971f-499b-43bf-ba65-9d3090928bbd" />
+<img width="993" height="902" alt="Screenshot from Screencast from 2025-11-08 11-15-13 webm" src="https://github.com/user-attachments/assets/7008763d-5da2-44a4-bcd6-ab42b4c9f63f" />
+<img width="877" height="949" alt="Screenshot from 2025-11-08 11-14-07" src="https://github.com/user-attachments/assets/d18240f7-ca46-488a-a21d-ed6865270388" />
+<img width="1530" height="849" alt="Screenshot from 2025-11-08 11-16-40" src="https://github.com/user-attachments/assets/eeb1c559-2997-4c64-9b93-c846529dacba" />
+
+
 ## Requirements
 - Python 3.12 (system python) with ability to install packages using `pip --break-system-packages` (already bootstrapped in this repo).
 - Node.js LTS (18+ recommended) for the React development server.
