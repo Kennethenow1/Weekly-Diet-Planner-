@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Environment
+.env
+
+# Runtime artifacts
+data/
+pipeline/rendering/index.db
+pipeline/rendering/output/
+
+# Tools
+get-pip.py
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Snap caches (avoid accidental add)
+../snap/
