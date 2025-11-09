@@ -1,5 +1,8 @@
+# Main Aim Of Project
+The main aim for this project was to develop something that I can use myself, something that will aid me in devloping a healthy diet. What is that something? Well an AI algorithm. Because I am too lazy and dont know the specifics of everymeal, ending up with a pizza in my mouth everytime I tell myself ill eat healthier, I want to develop something that can use an educated decision tree to tell me what I should eat to ahieve my goals. This educated Data tree will be based of the IU dining eats website. 
 
-#Version 1 
+
+#Version 1 (Working pipeline to get information to the API and for it to respond like wanted) 
 # Weekly Diet Planner
 A full-stack application that collects pantry items and wellness goals, preprocesses them, calls an OpenAI model to craft weekday meal plans, stores the results, and renders them in a polished dashboard and React interface.
 
