@@ -1,6 +1,19 @@
 # Main Aim Of Project
 The main aim for this project was to develop something that I can use myself, something that will aid me in developing a healthy diet. What is that something? Well, an AI algorithm. Because I am too lazy and don’t know the specifics of every meal, ending up with a pizza in my mouth every time I tell myself I’ll eat healthier, I want to develop something that can use an educated decision tree to tell me what I should eat to achieve my goals. This educated decision tree will be based off the IU Dining Eats website.
 
+## Version 2 
+-Three-stop experience:
+   The Kitchen—choose dataset(added the IU Dining Eats data) or pantry mode, set dates, and define your goal.
+   The Dish—a modern black-and-white layout showing daily breakfast/lunch/dinner tiles with detailed overlays.
+   The Pantry—view, load, or delete prior meal plans.
+-Smarter nutrition: Every meal now carries a full nutrient panel (Calories, macros, key vitamins/minerals, etc.), rolled up into a daily total.
+-Menu variety safeguards: Backend enforces unique breakfasts, lunches, and dinners across the time window, automatically nudging the model when it tries to repeat itself.
+-Housekeeping: Added a history delete endpoint and improved CLI/JSON handling so big menu datasets no longer break preprocessing.
+<img width="1857" height="902" alt="Screenshot from 2025-11-09 01-09-29" src="https://github.com/user-attachments/assets/293ac9bc-b429-4f52-81c7-7d42608d83a7" />
+<img width="1825" height="902" alt="Screenshot from 2025-11-09 01-10-34" src="https://github.com/user-attachments/assets/7624db15-f8b4-4929-b5f3-d68dd7fe181f" />
+<img width="1834" height="902" alt="Screenshot from 2025-11-09 01-10-57" src="https://github.com/user-attachments/assets/9748285d-5a80-463b-98bf-49ba82c39ed7" />
+<img width="1834" height="902" alt="Screenshot from 2025-11-09 01-11-28" src="https://github.com/user-attachments/assets/05c7c939-3764-4123-a632-cd69e25d2437" />
+<img width="1834" height="902" alt="Screenshot from 2025-11-09 01-11-47" src="https://github.com/user-attachments/assets/a94fa418-58fc-461b-8b24-0aa8f5a36ce1" />
 
 ## Version 1 (Working pipeline to get information to the API and for it to respond like wanted). Weekly Diet Planner
 A full-stack application that collects pantry items and wellness goals, preprocesses them, calls an OpenAI model to craft weekday meal plans, stores the results, and renders them in a polished dashboard and React interface.
