@@ -2,13 +2,13 @@
 The main aim for this project was to develop something that I can use myself, something that will aid me in developing a healthy diet. What is that something? Well, an AI algorithm. Because I am too lazy and don’t know the specifics of every meal, ending up with a pizza in my mouth every time I tell myself I’ll eat healthier, I want to develop something that can use an educated decision tree to tell me what I should eat to achieve my goals. This educated decision tree will be based off the IU Dining Eats website.
 
 ## Version 2 
--Three-stop experience:
-   The Kitchen—choose dataset(added the IU Dining Eats data) or pantry mode, set dates, and define your goal.
-   The Dish—a modern black-and-white layout showing daily breakfast/lunch/dinner tiles with detailed overlays.
-   The Pantry—view, load, or delete prior meal plans.
--Smarter nutrition: Every meal now carries a full nutrient panel (Calories, macros, key vitamins/minerals, etc.), rolled up into a daily total.
--Menu variety safeguards: Backend enforces unique breakfasts, lunches, and dinners across the time window, automatically nudging the model when it tries to repeat itself.
--Housekeeping: Added a history delete endpoint and improved CLI/JSON handling so big menu datasets no longer break preprocessing.
+
+- 1st(page); The Kitchen—choose dataset(added the IU Dining Eats data) or pantry mode, set dates, and define your goal.
+- 2nd(page); The Dish—a modern black-and-white layout showing daily breakfast/lunch/dinner tiles with detailed overlays.
+- 3rd(page); The Pantry—view, load, or delete prior meal plans.
+- Smarter nutrition: Every meal now carries a full nutrient panel (Calories, macros, key vitamins/minerals, etc.), rolled up into a daily total.
+- Menu variety safeguards: Backend enforces unique breakfasts, lunches, and dinners across the time window, automatically nudging the model when it tries to repeat itself.
+- Housekeeping: Added a history delete endpoint and improved CLI/JSON handling so big menu datasets no longer break preprocessing.
 <img width="1857" height="902" alt="Screenshot from 2025-11-09 01-09-29" src="https://github.com/user-attachments/assets/293ac9bc-b429-4f52-81c7-7d42608d83a7" />
 <img width="1825" height="902" alt="Screenshot from 2025-11-09 01-10-34" src="https://github.com/user-attachments/assets/7624db15-f8b4-4929-b5f3-d68dd7fe181f" />
 <img width="1834" height="902" alt="Screenshot from 2025-11-09 01-10-57" src="https://github.com/user-attachments/assets/9748285d-5a80-463b-98bf-49ba82c39ed7" />
