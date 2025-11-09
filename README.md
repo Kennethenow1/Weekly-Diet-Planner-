@@ -12,7 +12,9 @@ The main aim for this project was to develop something that I can use myself, so
 <img width="1857" height="902" alt="Screenshot from 2025-11-09 01-09-29" src="https://github.com/user-attachments/assets/293ac9bc-b429-4f52-81c7-7d42608d83a7" />
 <img width="1825" height="902" alt="Screenshot from 2025-11-09 01-10-34" src="https://github.com/user-attachments/assets/7624db15-f8b4-4929-b5f3-d68dd7fe181f" />
 <img width="1834" height="902" alt="Screenshot from 2025-11-09 01-10-57" src="https://github.com/user-attachments/assets/9748285d-5a80-463b-98bf-49ba82c39ed7" />
-<img width="530" height="850" alt="Screenshot from 2025-11-09 01-11-28" src="https://github.com/user-attachments/assets/f16bc0bd-eb54-40ba-bd51-ae9c8f2413ab" />
+<p align="center">
+  <img width="530" height="850" alt="Screenshot from 2025-11-09 01-11-28" src="https://github.com/user-attachments/assets/f16bc0bd-eb54-40ba-bd51-ae9c8f2413ab" />
+</p>
 <img width="1000" height="902" alt="Screenshot from 2025-11-09 01-11-47" src="https://github.com/user-attachments/assets/a94fa418-58fc-461b-8b24-0aa8f5a36ce1" />
 
 
