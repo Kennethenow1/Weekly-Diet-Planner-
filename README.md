@@ -1,7 +1,7 @@
 # Main Aim Of Project
 The main aim for this project was to develop something that I can use myself, something that will aid me in developing a healthy diet. What is that something? Well, an AI algorithm. Because I am too lazy and don’t know the specifics of every meal, ending up with a pizza in my mouth every time I tell myself I’ll eat healthier, I want to develop something that can use an educated decision tree to tell me what I should eat to achieve my goals. This educated decision tree will be based off the IU Dining Eats website.
 
-## Version 2 
+## Version 2 (not yet pushed will do 9th 11:59 est)
 
 - 1st(page); The Kitchen—choose dataset(added the IU Dining Eats data) or pantry mode, set dates, and define your goal.
 - 2nd(page); The Dish—a modern black-and-white layout showing daily breakfast/lunch/dinner tiles with detailed overlays.
